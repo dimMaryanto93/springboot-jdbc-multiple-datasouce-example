@@ -1,4 +1,4 @@
-package com.maryanto.dimas.multidatasouce.example.springmultidatasouceexample;
+package com.maryanto.dimas.multiple.datasouce.example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringMultidatasouceExampleApplicationTests {
+public class MultipleDatasouceApplicationTests {
 
 	@Test
 	public void contextLoads() {
